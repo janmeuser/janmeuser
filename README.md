@@ -6,6 +6,7 @@ Coffee. Code. Repeat.
     🎬 YouTube
     💼 LinkedIn
 
+[💼 LinkedIn]((https://www.linkedin.com/in/janmeuser/) "Beschreibungstext")
 
 
 <!--
