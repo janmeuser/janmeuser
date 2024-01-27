@@ -1,6 +1,10 @@
 ### Hello World 🌍
 
-Create. Explore. Inspire.
+Coffee. Code. Repeat.
+
+🔗 Connect with me on:
+    🎬 YouTube
+    💼 LinkedIn
 
 
 
