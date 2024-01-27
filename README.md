@@ -2,13 +2,6 @@
 
 Coffee. Code. Repeat.
 
-🔗 Connect with me on:
-    🎬 YouTube
-    💼 LinkedIn
-
-[💼 LinkedIn]((https://www.linkedin.com/in/janmeuser/) "Beschreibungstext")
-
-
 <!--
 **janmeuser/janmeuser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
